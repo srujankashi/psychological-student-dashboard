@@ -95,7 +95,7 @@ letter-spacing: 1px;
 	
         </div>
                                 <p> 
-                                    <label for="email" class="email" data-icon="u" > Your email  </label>
+                                    <label for="email" class="email" data-icon="u" > Your email Address  </label>
                                     <input id="email" name="email" required type="text" placeholder="mymail@mail.com"/>
                                 </p>
                                 
