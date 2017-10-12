@@ -28,7 +28,7 @@
 		<link rel="stylesheet" type="text/css" href="css/animate-custom.css" />
         <style>
 		.hide{display:none !important;}
-		.fontsize{font-size: 20px;font-weight: 600;}
+		.fontsize{font-size: 13px;font-weight: 400;}
 		.blog-posts h2{font-size:25px;}
 		#login-homepage-bg{background:url('images/images.jpg') no-repeat scroll 0 0;background-size:cover;height:347px;width:100%;}
 /*		.overlay{background:#000;opacity:0.6;width:100%;height:320px;}*/
